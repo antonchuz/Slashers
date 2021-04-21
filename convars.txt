@@ -38,6 +38,6 @@
  game replicated server_can_execute lua_server
  - Set minimum players required to start a round.
 
-"slashers_lang_default" = "en"
+"slashers_lang_default" = "ru"
  game replicated server_can_execute lua_server
  - Set default language of gamemode.
